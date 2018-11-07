@@ -1,4 +1,0 @@
-ReactDOM.render(
-  <h1>SlattApp!</h1>,
-  document.getElementById('root')
-);
